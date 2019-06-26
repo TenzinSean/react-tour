@@ -1,0 +1,23 @@
+* {
+  margin: auto;
+  padding: auto;
+  box-sizing: border-box;
+}
+
+
+/* Colors */
+
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$maiGrey: #ececec;
+$mainRed: red;
+
+body {
+  background: $maiGrey;
+  color: $mainGreen;
+  font-family: "Open Sans", sans-serif;
+}
+
+
+
